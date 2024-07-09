@@ -16,6 +16,11 @@ This project is a complete e-commerce website built using the MERN stack (MongoD
 - **Database**: MongoDB with Mongoose for object data modeling
 - **Authentication**: JWT (JSON Web Token) for secure login and token handling
 
+
+![WhatsApp Image 2024-07-09 at 13 20 36_3ed64b14](https://github.com/DilshanIndunil/e-commerce-React-mernstack/assets/163544478/6e0067bb-8276-4f3c-8af4-2f5ac9f7146f)
+
+
+
 ## How to Run
 
 ### 1. Clone the repository
